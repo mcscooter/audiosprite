@@ -15,10 +15,6 @@
       "url": "https://github.com/tonistiigi/audiosprite/raw/master/LICENSE"
     }
   ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/mcscooter/audiosprite.git"
-  },
   "main": "./audiospriteplus.js",
   "bin": {
     "audiospriteplus": "./audiospriteplus.js"
